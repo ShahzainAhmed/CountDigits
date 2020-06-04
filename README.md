@@ -7,7 +7,7 @@
 - Print the number of digits in the given integer.
 
 ## Program Explanation:
--
+- User must first enter the value of the integer and store it in a variable.
 -
 -
 -
