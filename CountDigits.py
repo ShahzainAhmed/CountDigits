@@ -1,3 +1,5 @@
+
+# Taking input from the user.
 n=int(input("Enter number:"))
 count=0
 while(n>0):
