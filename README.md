@@ -10,4 +10,4 @@
 - User must first enter the value of the integer and store it in a variable.
 - The while loop is used and the last digit of the number is obtained by using the modulus operator.
 - Each time a digit is obtained, the count value is incremented.
--
+- This loop terminates when the value of the number is 0.
